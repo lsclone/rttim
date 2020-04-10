@@ -22,6 +22,8 @@ http://blog.chinaunix.net/uid-15063109-id-4548099.html
 
 
 =====================================================
+参考： https://www.cnblogs.com/junneyang/p/6223101.html?utm_source=itdadao&utm_medium=referral
+以下是上述网页内容：
 
 【Network】UDP 大包怎么发？ MTU怎么设置？
       这里主要用UDP来发送视频，当发送的数据大于1500时分包发送，保证每包小于1500.
